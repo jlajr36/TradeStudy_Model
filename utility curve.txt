@@ -1,0 +1,6 @@
+moe = (10/(bestCase-worstCase))*(value-bestCase)+10
+
+This equation can be reused for any situation that requires straightline utility curve.
+
+Takes the upper and lower limit of the acceptable value range.  
+The resulting MOE value range is 0-10
